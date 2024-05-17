@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/visitka/static/css/main.b1c6f08a.css",
-    "main.js": "/visitka/static/js/main.bf2d51c4.js",
+    "main.js": "/visitka/static/js/main.845a847c.js",
     "static/js/453.c0179d4e.chunk.js": "/visitka/static/js/453.c0179d4e.chunk.js",
     "static/media/meTitle.jpg": "/visitka/static/media/meTitle.06641d492e47015c70b2.jpg",
     "static/media/hello.svg": "/visitka/static/media/hello.4f3d64c099852add63e4cbe9540a2349.svg",
@@ -42,11 +42,11 @@
     "static/media/vue.svg": "/visitka/static/media/vue.5e4385f43e17abecad9ad26899f36de8.svg",
     "static/media/menu.svg": "/visitka/static/media/menu.0a6317513d38d3f79a42e04bd6d9f865.svg",
     "main.b1c6f08a.css.map": "/visitka/static/css/main.b1c6f08a.css.map",
-    "main.bf2d51c4.js.map": "/visitka/static/js/main.bf2d51c4.js.map",
+    "main.845a847c.js.map": "/visitka/static/js/main.845a847c.js.map",
     "453.c0179d4e.chunk.js.map": "/visitka/static/js/453.c0179d4e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b1c6f08a.css",
-    "static/js/main.bf2d51c4.js"
+    "static/js/main.845a847c.js"
   ]
 }
